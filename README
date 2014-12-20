@@ -1,1 +1,5 @@
-Initial commit.
+This repo contains the Javascript frontend client for the Flow webapp.
+
+There will (hopefully) be other repositories that cover various backend tasks.
+
+Using Backbone, D3, Jquery, Underscore. Modals from http://tympanus.net/Development/ModalWindowEffects/
